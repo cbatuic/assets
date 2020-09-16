@@ -1,4 +1,4 @@
-# Activity Assets
+# Activity Assets - [https://cbatuic.github.io/assets](https://cbatuic.github.io/assets)
 A repository to all materials needed to successfully complete an activity. 
 <br>
 <br>
